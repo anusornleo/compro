@@ -1,7 +1,7 @@
 # COM PRO Project Documentation (I'm Beethoven!)
 This is a demo project for Computer Programming 2017
 # Installation
-- Install Pianotile2 from Google store/App store to your smart phone
+- Install Pianotile from Google store/App store to your smart phone (This version can play only ZEN MODE & CLASSIC MODE)
 - Connect arduino to pc/labtop
 - Run program arduino 1.8.5 with our source code
 - Place your mobile phone at the preparation point
