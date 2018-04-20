@@ -20,35 +20,16 @@ void setup()
   servo2.attach(10);
   servo3.attach(11);
   Serial.begin(9600);
-  /*servo0.write(80);
-  servo1.write(90);
-  servo2.write(80);
-  servo3.write(90);*/
+  servo0.write(65);
+  servo1.write(68);
+  servo2.write(100);
+  servo3.write(90);
+  delay(5000);
 }
  
 void loop()
 {
   
-  /*servo0.write(110);
-  delay(300);
-  servo0.write(133);
-  delay(300);
-  servo0.write(110);
-  servo1.write(68);
-  delay(300);
-  servo1.write(57);
-  delay(300);
-  servo1.write(68);
-  servo2.write(100);
-  delay(300);
-  servo2.write(117);
-  delay(300);
-  servo2.write(100);
-  servo3.write(90);
-  delay(300);
-  servo3.write(72);
-  delay(300);
-  servo3.write(90);*/
   servo0.write(65);
   servo1.write(68);
   servo2.write(100);
@@ -96,3 +77,8 @@ void loop()
     }*/
   }
 }
+
+void runmode(){
+  
+}
+
